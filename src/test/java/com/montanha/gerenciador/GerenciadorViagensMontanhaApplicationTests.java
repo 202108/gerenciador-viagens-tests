@@ -12,5 +12,4 @@ public class GerenciadorViagensMontanhaApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
