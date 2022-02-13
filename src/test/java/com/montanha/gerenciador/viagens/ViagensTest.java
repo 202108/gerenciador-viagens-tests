@@ -45,6 +45,5 @@ public class ViagensTest {
                 .log().all()
                 .assertThat()
                 .statusCode(201);
-
     }
 }
